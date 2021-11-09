@@ -10,8 +10,8 @@
 <a href="https://www.unlawfulsystem01.jimdofree.com/"><img title="Ipdrone" src="https://user-images.githubusercontent.com/49580304/96668887-f96ce580-1310-11eb-9849-2ee012aecdf5.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/jasinramadani04"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/unlawfulsystem"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/jasinramadani04"><img title="Github" src="https://img.shields.io/badge/jasinramadani-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/unlawfulsystem"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Unlawful System-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/jasinramadani04"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
