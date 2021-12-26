@@ -7,7 +7,7 @@
 <a href="https://www.unlawfulsystem01.jimdofree.com/"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://www.unlawfulsystem01.jimdofree.com/"><img title="Ipdrone" src="https://user-images.githubusercontent.com/49580304/96668887-f96ce580-1310-11eb-9849-2ee012aecdf5.jpg"></a>
+<a href="https://www.unlawfulsystem01.jimdofree.com/"><img title="Ipdrone" src="C:\Users\Mahir Hyseini\OneDrive\Desktop\96668887-f96ce580-1310-11eb-9849-2ee012aecdf5.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/jasinramadani04"><img title="Github" src="https://img.shields.io/badge/jasinramadani-brightgreen?style=for-the-badge&logo=github"></a>
