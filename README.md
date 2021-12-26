@@ -2,12 +2,12 @@
 <a href="https://ibb.co/PFP3fzQ/"><img title="Made in KOSOVO" src="https://img.shields.io/badge/MADE%20IN-KOSOVO-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://www.unlawfulsystem01.jimdofree.com/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Ipdrone-green.svg"></a>
+<a href="https://www.unlawfulsystem01.jimdofree.com/"><img title="Made in KOSOVO" src="https://img.shields.io/badge/Tool-Ipdrone-green.svg"></a>
 <a href="https://www.unlawfulsystem01.jimdofree.com/"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://www.unlawfulsystem01.jimdofree.com/"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://www.unlawfulsystem01.jimdofree.com/"><img title="Ipdrone" src="https://ibb.co/PFP3fzQ"></a>
+<a href="https://www.unlawfulsystem01.jimdofree.com/"><img title="Ipdrone" src="https://www.linkpicture.com/view.php?img=LPic61c8cc0daa5fe570612502"></a>
 </p>
 <p align="center">
 <a href="https://github.com/jasinramadani04"><img title="Github" src="https://img.shields.io/badge/jasinramadani-brightgreen?style=for-the-badge&logo=github"></a>
